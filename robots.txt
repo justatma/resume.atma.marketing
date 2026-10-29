@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://resume.atma.marketing/
+Sitemap: https://resume.atma.marketing/sitemap.xml
